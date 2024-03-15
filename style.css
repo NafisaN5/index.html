@@ -4,9 +4,26 @@ html {
 }
 
 body{
-  background-color: indianred;
-  color: rebeccapurple;
+  background-color: #b97474;
+  color: #651010;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
-  font-family: fantasy;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.banner{
+  background-color: #e4b4c0;
+  border: 7px solid #800536;
+  text-align: center;
+  box-shadow:1px 3px 30px 1px#4e0924;
+  margin: 40px;
+  padding: 5px;
+  text-transform: capitalize;
+  height: 270px;
+  text-align: center;
+  font-weight: bold;
+}
+img{
+  border: 2px solid #800536;
 }
